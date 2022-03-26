@@ -34,13 +34,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/dkimjpg/Parstagram/blob/master/walkthrough%202.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Getting the pull to refresh was a bit challenging to implement because I didn't know how to update the RecylerView.Adapter, so I couldn't implement it.
 
 ## Open-source libraries used
 
@@ -49,7 +50,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [David Kim]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -64,9 +65,9 @@ Describe any challenges encountered while building the app.
     limitations under the License.
 ------------------------------------------------------------------------------------------------------------------
 
-# Project 3 - *Name of App Here*
+# Project 3 - *Parstagram*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Parstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **7** hours spent in total
 
